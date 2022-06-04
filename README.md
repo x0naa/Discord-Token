@@ -1,3 +1,5 @@
+# This extension will be added to the chrome store soon
+
 <a href="https://x0naa.github.io/Profile-Card/"><img src="image.png"></a>
 # Browser compatibility
 ```diff
